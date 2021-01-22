@@ -705,7 +705,7 @@ class Form extends React.Component {
               />
               </div>
              
-
+<h1>welcome</h1>
 
             <div className="createAccount">
               <button type="submit">Submit</button>
